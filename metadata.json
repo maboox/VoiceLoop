@@ -1,0 +1,7 @@
+{
+  "name": "VoiceLoop DJ",
+  "description": "A modern voice sampler and loop station. Record samples, arrange them on a grid, and perform live mixes with custom intervals and master recording.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
